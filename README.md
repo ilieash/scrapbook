@@ -11,3 +11,6 @@ https://www.binarytides.com/linux-commands-monitor-network/
 
 #### ssh tunnel through intermediate
 https://vadosware.io/post/ssh-tunneling-using-an-intermediary-computer/
+
+#### cockpit remote management
+https://cockpit-project.org/
