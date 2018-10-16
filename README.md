@@ -15,3 +15,6 @@ http://www.catonmat.net/blog/linux-socks5-proxy/
 
 #### cockpit remote management
 https://cockpit-project.org/
+
+#### VPN docker helper
+https://github.com/mobilejazz/docker-ipsec-vpn-server
